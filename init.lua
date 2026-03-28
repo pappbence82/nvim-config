@@ -142,7 +142,7 @@ vim.keymap.set("n", "<C-l>", "<C-w>l")
 
 vim.keymap.set("n", "<leader>h", ":nohlsearch<CR>")
 
-vim.keymap.set("n", "<C-n>", ":NERDTreeToggle<CR>")
+vim.keymap.set("n", "<C-b>", ":NERDTreeToggle<CR>")
 
 vim.keymap.set("n", "tn", ":tabnew<CR>")
 vim.keymap.set("n", "tj", ":tabprev<CR>")
